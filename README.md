@@ -2,8 +2,3 @@
 
 ## Primeiro corpo de uma página.
 # projeto
-
-```
-ola 
-
-```
